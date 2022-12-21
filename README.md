@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soma sekhar(@Somu-Gen)
 - 👀 I’m interested in Data science & analytics
 - 🌱I'm working to increase my expertise of artificial intelligence and machine learning.
-- 💞️ I’m looking to collaborate on Financial and business analysis & case studies, Developing prediction models. I'm happy to disuss any ideas & proposals.
+- 💞️ I’m open to collaborate and happy to discuss any ideas & proposals.
 - 
 - 📫get in touch
 - LinkedIn:https://www.linkedin.com/in/somasekhargoud2000/
