@@ -5,7 +5,7 @@
 - 
 - 📫get in touch
 - LinkedIn:https://www.linkedin.com/in/somasekhargoud2000/
-- Twitter: @Somu3004
+- Twitter: https://twitter.com/Somu3004
 - Email: somasekhargoud98@gmail.com
 
 <!---
