@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data science & analytics
 - 🌱I'm working to increase my expertise of artificial intelligence and machine learning.
 - 💞️ I’m open to collaborate and happy to discuss any ideas & proposals.
-   
+
+   ## Google Data Analytics Professional [certificate](https://coursera.org/share/50bea6bb8639840be154683f1af0f2d3)
 # 🗃️Projects So For
 - Water Quality Analysis and Prediction with an [Interactive Web-DashBoard](https://somu-gen-final-wqi-rep-st-f2-hoc6qx.streamlit.app/) / [branch](https://github.com/Somu-cSs/Water-Quality-Analysis-and-Prediction./tree/main)
 
@@ -53,7 +54,7 @@
 
 - [Temperature Forecast Project](https://github.com/Somu-cSs/Internship/tree/Temperature-Forecast-Project)
 
-- [Titanic survived Project](https://github.com/Somu-cSs/Internship/tree/Titanic-survived-Project)\
+- [Titanic survived Project](https://github.com/Somu-cSs/Internship/tree/Titanic-survived-Project)
 
 - [World Happiness Report Project](https://github.com/Somu-cSs/Internship/tree/World-Happiness-Report-Project)
 
@@ -61,7 +62,7 @@
 - LinkedIn:https://www.linkedin.com/in/somasekhargoud2000/
 - Twitter: https://twitter.com/Somu3004
 - Email: somasekhargoud98@gmail.com
-- 
+
 <!---
 Somu-cSs/Somu-Gen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
